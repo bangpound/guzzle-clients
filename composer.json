@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "guzzle/guzzle": "~3.5"
+        "guzzle/guzzle": "3.5.*"
     },
     "autoload": {
         "psr-0": { "Guzzle": "" }
